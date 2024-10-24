@@ -1,4 +1,5 @@
-package lab_3a;
+package lab_3a.src.test.java;
+import lab_3a.src.main.java.MovieTicketPriceCalculator;
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
 import java.time.LocalTime;
