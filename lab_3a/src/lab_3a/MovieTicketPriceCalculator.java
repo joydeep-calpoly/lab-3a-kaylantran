@@ -76,4 +76,8 @@ public class MovieTicketPriceCalculator {
       return 0;
     }
   }
+
+  public static void main(String[] args) {
+    System.out.println("Movie Ticket Price Calculator is running!");
+ }
 }
